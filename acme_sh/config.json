@@ -16,6 +16,7 @@
     "keyfile": "privkey.pem",
     "dns": {}
   },
+  "init": false,
   "schema": {
     "account": "str",
     "server": "str",
